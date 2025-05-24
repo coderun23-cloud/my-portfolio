@@ -21,6 +21,16 @@ const projects = [
     demoUrl: "#", // Optional
     githubUrl: "#", // Optional
   },
+  {
+    id: 3,
+    title: "Personal Crypto Tracker",
+    description:
+      "Crypto Tracker is a modern web app that allows users to explore and monitor real-time cryptocurrency data. Built with React, it uses the CoinGecko API to fetch up-to-date prices, market cap, and historical data of the top cryptocurrencies.",
+    image: "/crypto.png",
+    tags: ["React", "CSS"],
+    demoUrl: "#", // Optional
+    githubUrl: "#", // Optional
+  },
 ];
 
 export const ProjectSection = () => {
