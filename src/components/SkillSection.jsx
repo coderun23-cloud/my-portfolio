@@ -3,7 +3,7 @@ import { cn } from "../lib/utlis";
 
 const skills = [
   // Frontend
-  { name: "HTML", level: 90, category: "frontend" },
+  { name: "HTML", level: 94, category: "frontend" },
   { name: "CSS", level: 70, category: "frontend" },
   { name: "JavaScript", level: 85, category: "frontend" },
   { name: "React", level: 80, category: "frontend" },
@@ -12,7 +12,7 @@ const skills = [
 
   // Backend
   { name: "Laravel", level: 80, category: "backend" },
-  { name: "PHP", level: 80, category: "backend" },
+  { name: "PHP", level: 85, category: "backend" },
   { name: "MySQL", level: 85, category: "backend" },
   { name: "Apache", level: 85, category: "backend" },
 
