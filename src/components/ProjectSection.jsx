@@ -19,7 +19,8 @@ const projects = [
     image: "/adikasite.png", // Replace with actual image path
     tags: ["Laravel", "HTML", "CSS", "JavaScript"],
     demoUrl: "#", // Optional
-    githubUrl: "#", // Optional
+    githubUrl:
+      "https://github.com/coderun23-cloud/Adika-Driver-Registration-and-management-system/tree/main/driver's-registration", // Optional
   },
   {
     id: 3,
@@ -29,7 +30,7 @@ const projects = [
     image: "/crypto.png",
     tags: ["React", "CSS"],
     demoUrl: "https://personal-crypto-tracker.vercel.app", // Optional
-    githubUrl: "#", // Optional
+    githubUrl: "https://github.com/coderun23-cloud/Personal-crypto-tracker", // Optional
   },
 ];
 
