@@ -20,6 +20,7 @@ const skills = [
   { name: "XAMPP", level: 80, category: "tools" },
   { name: "VS Code", level: 80, category: "tools" },
   { name: "Git/GitHub", level: 70, category: "tools" },
+  { name: "PostMan", level: 75, category: "tools" },
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];
