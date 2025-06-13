@@ -15,12 +15,17 @@ const projects = [
     id: 2,
     title: "Adika Driver Registration System",
     description:
-      "A driver registration and tracking platform for Adika, developed using Laravel with HTML, CSS, and JavaScript. Enables data entry, status updates, and admin-level management.",
+      "A driver registration and tracking platform for Adika, developed using Laravel for backend and RestApi and  Reactjs for the frontend and TailwindCSS for styling .This system enable to regsiter a driver and manage it ",
     image: "/adikasite.png", // Replace with actual image path
-    tags: ["Laravel", "HTML", "CSS", "JavaScript"],
+    tags: [
+      "Laravel",
+      "React",
+      "TailwindCSS",
+      "REST API",
+      "Sanctum SPA Authentication",
+    ],
     demoUrl: "#", // Optional
-    githubUrl:
-      "https://github.com/coderun23-cloud/Adika-Driver-Registration-and-management-system/tree/main/driver's-registration", // Optional
+    githubUrl: "https://github.com/coderun23-cloud/driver_registration",
   },
   {
     id: 3,
