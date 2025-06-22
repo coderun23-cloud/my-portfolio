@@ -6,17 +6,24 @@ const projects = [
     title: "Smart Bill",
     description:
       "A full-stack electricity billing system built using Laravel (API) and React for the frontend, styled with Tailwind CSS. The system includes secure authentication with Laravel Sanctum, user role management, real-time bill tracking, automated bill generation, and payment integration. API endpoints were tested and documented using Postman.",
-    image: "/smartbill.png", // Replace with actual image path
-    tags: ["Laravel", "HTML", "CSS", "JavaScript"],
-    demoUrl: "#", // Optional: Add live demo URL if available
-    githubUrl: "https://github.com/coderun23-cloud/Smart_Bill", // Optional: Add GitHub repo if public
+    image: "/smartbill.png",
+    tags: [
+      "Laravel",
+      "React",
+      "TailWindCSS",
+      "REST API",
+      "Chappa",
+      "Sanctum SPA Authentication",
+    ],
+    demoUrl: "#",
+    githubUrl: "https://github.com/coderun23-cloud/Smart_Bill",
   },
   {
     id: 2,
     title: "Adika Driver Registration System",
     description:
       "A driver registration and tracking platform for Adika, developed using Laravel for backend and RestApi and  Reactjs for the frontend and TailwindCSS for styling .This system enable to regsiter a driver and manage it ",
-    image: "/adikasite.png", // Replace with actual image path
+    image: "/adikasite.png",
     tags: [
       "Laravel",
       "React",
@@ -34,8 +41,8 @@ const projects = [
       "Crypto Tracker is a modern web app that allows users to explore and monitor real-time cryptocurrency data. Built with React, it uses the CoinGecko API to fetch up-to-date prices, market cap, and historical data of the top cryptocurrencies.",
     image: "/crypto.png",
     tags: ["React", "CSS"],
-    demoUrl: "https://personal-crypto-tracker.vercel.app", // Optional
-    githubUrl: "https://github.com/coderun23-cloud/Personal-crypto-tracker", // Optional
+    demoUrl: "https://personal-crypto-tracker.vercel.app",
+    githubUrl: "https://github.com/coderun23-cloud/Personal-crypto-tracker",
   },
 ];
 
