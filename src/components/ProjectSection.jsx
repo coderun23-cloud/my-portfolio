@@ -41,8 +41,8 @@ const projects = [
       "Crypto Tracker is a modern web app that allows users to explore and monitor real-time cryptocurrency data. Built with React, it uses the CoinGecko API to fetch up-to-date prices, market cap, and historical data of the top cryptocurrencies.",
     image: "/crypto.png",
     tags: ["React", "CSS"],
-    demoUrl: "https://personal-crypto-tracker.vercel.app",
-    githubUrl: "https://github.com/coderun23-cloud/Personal-crypto-tracker",
+    demoUrl: "https://personal-crypto-tracker.vercel.app", // Optional
+    githubUrl: "https://github.com/coderun23-cloud/Personal-crypto-tracker", // Optional
   },
 ];
 
