@@ -3,13 +3,13 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Electricity Billing System",
+    title: "Smart Bill",
     description:
-      "A web-based electricity billing system built with Laravel, HTML, CSS, and JavaScript. Includes features like bill generation, user management, and real-time status tracking.",
+      "A full-stack electricity billing system built using Laravel (API) and React for the frontend, styled with Tailwind CSS. The system includes secure authentication with Laravel Sanctum, user role management, real-time bill tracking, automated bill generation, and payment integration. API endpoints were tested and documented using Postman.",
     image: "/smartbill.png", // Replace with actual image path
     tags: ["Laravel", "HTML", "CSS", "JavaScript"],
     demoUrl: "#", // Optional: Add live demo URL if available
-    githubUrl: "#", // Optional: Add GitHub repo if public
+    githubUrl: "https://github.com/coderun23-cloud/Smart_Bill", // Optional: Add GitHub repo if public
   },
   {
     id: 2,
