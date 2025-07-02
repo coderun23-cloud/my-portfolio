@@ -44,6 +44,22 @@ const projects = [
     demoUrl: "https://personal-crypto-tracker.vercel.app", // Optional
     githubUrl: "https://github.com/coderun23-cloud/Personal-crypto-tracker", // Optional
   },
+  {
+    id: 4,
+    title: "Smart Cart",
+    description:
+      "Smart Cart is a full-stack e-commerce platform built with React for the frontend and Laravel for a robust RESTful API backend. It provides a seamless shopping experience for users while offering powerful admin tools for business management.",
+    image: "/smartcart.png",
+    tags: [
+      "Laravel",
+      "React",
+      "TailwindCSS",
+      "REST API",
+      "Sanctum SPA Authentication",
+    ],
+    demoUrl: "#", // Optional
+    githubUrl: "https://github.com/coderun23-cloud/SmartCart", // Optional
+  },
 ];
 
 export const ProjectSection = () => {
