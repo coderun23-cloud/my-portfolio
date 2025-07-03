@@ -56,6 +56,7 @@ const projects = [
       "TailwindCSS",
       "REST API",
       "Sanctum SPA Authentication",
+      "Chappa",
     ],
     demoUrl: "#", // Optional
     githubUrl: "https://github.com/coderun23-cloud/SmartCart", // Optional
