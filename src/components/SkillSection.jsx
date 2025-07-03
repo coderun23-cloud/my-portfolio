@@ -15,6 +15,7 @@ const skills = [
   { name: "PHP", level: 85, category: "backend" },
   { name: "MySQL", level: 85, category: "backend" },
   { name: "Apache", level: 85, category: "backend" },
+  { name: "RestAPI", level: 80, category: "backend" },
 
   // Tools
   { name: "XAMPP", level: 80, category: "tools" },
