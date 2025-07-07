@@ -10,6 +10,7 @@ const projects = [
     tags: [
       "Laravel",
       "React",
+      "Chart.js",
       "TailWindCSS",
       "REST API",
       "Chappa",
@@ -27,6 +28,7 @@ const projects = [
     tags: [
       "Laravel",
       "React",
+      "Chart.js",
       "TailwindCSS",
       "REST API",
       "Sanctum SPA Authentication",
@@ -53,6 +55,7 @@ const projects = [
     tags: [
       "Laravel",
       "React",
+      "Chart.js",
       "TailwindCSS",
       "REST API",
       "Sanctum SPA Authentication",
@@ -60,6 +63,24 @@ const projects = [
     ],
     demoUrl: "#", // Optional
     githubUrl: "https://github.com/coderun23-cloud/SmartCart", // Optional
+  },
+  {
+    id: 5,
+    title: "Gym Management System",
+    description:
+      "Smart Cart is a full-stack e-commerce platform built with React for the frontend and Laravel for a robust RESTful API backend. It provides a seamless shopping experience for users while offering powerful admin tools for business management.",
+    image: "/mavgym.png",
+    tags: [
+      "Laravel",
+      "React",
+      "Chart.js",
+      "TailwindCSS",
+      "REST API",
+      "Sanctum SPA Authentication",
+      "Chappa",
+    ],
+    demoUrl: "#",
+    githubUrl: "https://github.com/coderun23-cloud/gym_manegement_system", // Optional
   },
 ];
 
