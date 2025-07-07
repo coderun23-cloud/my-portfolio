@@ -68,7 +68,7 @@ const projects = [
     id: 5,
     title: "Gym Management System",
     description:
-      "Smart Cart is a full-stack e-commerce platform built with React for the frontend and Laravel for a robust RESTful API backend. It provides a seamless shopping experience for users while offering powerful admin tools for business management.",
+      "MAV Gym is a full-stack gym management platform developed with React for the frontend and Laravel for the RESTful API backend. It offers an intuitive interface for members, trainers, and receptionists, and provides powerful admin tools for managing memberships, plans, schedules, and staff.",
     image: "/mavgym.png",
     tags: [
       "Laravel",
